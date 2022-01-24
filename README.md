@@ -1,2 +1,2 @@
 # storyteller
-A platform for story tellers to share their work
+A platform for StoryTellers to share their work
